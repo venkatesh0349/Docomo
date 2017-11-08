@@ -1,1 +1,6 @@
 When doing a grep on a huge file, it may be useful to see some lines after the match. You might feel handy if grep can show you not only the matching lines but also the lines after/before/around the match.
+
+-C is the option which prints the specified N lines before the match. In some occasion you might want the match to be appeared with the lines from both the side. 
+
+please follow me
+
